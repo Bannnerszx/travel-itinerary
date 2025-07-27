@@ -1,0 +1,43 @@
+{
+  "day": 8,
+  "date": "August 14, 2024",
+  "weekday": "Wednesday",
+  "title": "Golden Dreams & Bamboo Magic 🎋",
+  "rating": 5,
+  "summary": "I'm so excited for today's magical experiences! The Arashiyama Bamboo Grove will be like walking through a natural cathedral, and I can't wait to hear the wind through the bamboo. Kinkaku-ji is what I've dreamed of seeing - that golden reflection in the water will be unforgettable!",
+  "activities": [
+    {
+      "time": "9:00 AM",
+      "icon": "MapPin",
+      "description": "Arashiyama Bamboo Grove - peaceful morning walk"
+    },
+    {
+      "time": "1:00 PM",
+      "icon": "Camera",
+      "description": "Kinkaku-ji (Golden Pavilion) - the iconic shot!"
+    },
+    {
+      "time": "4:00 PM",
+      "icon": "Coffee",
+      "description": "Traditional tea ceremony - learning the art"
+    }
+  ],
+  "images": [
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Bamboo Grove",
+      "caption": "🎋 Arashiyama Bamboo Grove - natural cathedral"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Golden Pavilion",
+      "caption": "✨ Kinkaku-ji - the famous Golden Pavilion"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Tea ceremony",
+      "caption": "🍵 Traditional tea ceremony experience"
+    }
+  ],
+  "highlight": "I plan to spend quiet time in the bamboo grove just listening and being present. These peaceful moments are what I treasure most! 🧘‍♀️"
+}

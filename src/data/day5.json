@@ -1,0 +1,43 @@
+{
+  "day": 5,
+  "date": "August 11, 2024",
+  "weekday": "Sunday",
+  "title": "Spiritual & Shopping Balance ⛩️",
+  "rating": 4,
+  "summary": "I'm planning the perfect balance today! Sumiyoshi Taisha shrine will provide peaceful morning reflection, then I'll dive into the bustling Shinsaibashi shopping district. I'm most excited to try kushikatsu and explore Osaka's incredible street food scene!",
+  "activities": [
+    {
+      "time": "9:00 AM",
+      "icon": "MapPin",
+      "description": "Sumiyoshi Taisha shrine - morning meditation"
+    },
+    {
+      "time": "1:00 PM",
+      "icon": "Camera",
+      "description": "Shinsaibashi shopping district exploration"
+    },
+    {
+      "time": "6:00 PM",
+      "icon": "Coffee",
+      "description": "Street food crawl - kushikatsu & more!"
+    }
+  ],
+  "images": [
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Sumiyoshi Taisha",
+      "caption": "⛩️ Sumiyoshi Taisha - ancient shrine visit"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Shinsaibashi",
+      "caption": "🛍️ Shinsaibashi - shopping district exploration"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Street food",
+      "caption": "🍢 Street food crawl - kushikatsu adventure!"
+    }
+  ],
+  "highlight": "Looking for unique Japanese fashion and cute accessories. I've already made space in my suitcase! 🛍️"
+}

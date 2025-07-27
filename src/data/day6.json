@@ -1,0 +1,43 @@
+{
+  "day": 6,
+  "date": "August 12, 2024",
+  "weekday": "Monday",
+  "title": "Journey to Ancient Kyoto! 🚄",
+  "rating": 4,
+  "summary": "Today I'm traveling to the ancient capital! The Shinkansen ride to Kyoto will feel like traveling through time. I'm so excited to explore the historic Gion district and hopefully spot a geisha. The traditional architecture and peaceful atmosphere will be such a contrast to Osaka's energy!",
+  "activities": [
+    {
+      "time": "11:00 AM",
+      "icon": "Train",
+      "description": "Shinkansen from Osaka to Kyoto (30 minutes)"
+    },
+    {
+      "time": "1:00 PM",
+      "icon": "MapPin",
+      "description": "Check in near Kyoto Station"
+    },
+    {
+      "time": "5:00 PM",
+      "icon": "Camera",
+      "description": "First exploration of historic Gion district"
+    }
+  ],
+  "images": [
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Train to Kyoto",
+      "caption": "🚄 Journey to ancient Kyoto begins!"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Kyoto Station",
+      "caption": "🏛️ Kyoto Station's impressive architecture"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Gion district",
+      "caption": "🏮 Historic Gion district exploration"
+    }
+  ],
+  "highlight": "I'm hoping to respectfully spot a geisha in Gion and experience that magical feeling of stepping back in time! ✨"
+}

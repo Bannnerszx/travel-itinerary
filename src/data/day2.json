@@ -1,0 +1,43 @@
+{
+  "day": 2,
+  "date": "August 8, 2024",
+  "weekday": "Thursday",
+  "title": "Cars, Shrines & Local Flavors! 🚗",
+  "rating": 5,
+  "summary": "I'm planning a perfect balance today! The Toyota Museum will satisfy my curiosity about automotive innovation, then Atsuta Shrine will provide spiritual grounding. I'm most excited to try Nagoya's famous tebasaki chicken wings and miso katsu!",
+  "activities": [
+    {
+      "time": "9:00 AM",
+      "icon": "MapPin",
+      "description": "Toyota Museum - automotive history tour"
+    },
+    {
+      "time": "2:00 PM",
+      "icon": "Camera",
+      "description": "Atsuta Shrine - spiritual experience"
+    },
+    {
+      "time": "6:00 PM",
+      "icon": "Coffee",
+      "description": "Sakae district food tour - tebasaki & miso katsu!"
+    }
+  ],
+  "images": [
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Toyota Museum",
+      "caption": "🚗 Toyota Museum - car history awaits!"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Atsuta Shrine",
+      "caption": "⛩️ Atsuta Shrine - one of Japan's most sacred"
+    },
+    {
+      "src": "/placeholder.svg?height=300&width=400",
+      "alt": "Nagoya food",
+      "caption": "🍗 Planning to try tebasaki chicken wings!"
+    }
+  ],
+  "highlight": "The spiritual atmosphere at Atsuta Shrine and trying authentic Nagoya cuisine. I've been researching the best local spots! 🙏"
+}
